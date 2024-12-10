@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Journal GPS</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="altitude">Altitude</string>
+    <string name="signal_strength">Puissance du signal (dBm)</string>
+    <string name="battery_level">Niveau de batterie (%)</string>
+    <string name="change_language">Changer la langue</string>
+    <string name="save_to_csv">Enregistrer en CSV</string>
+</resources>

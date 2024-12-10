@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GPS Logger</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="altitude">Altitude</string>
+    <string name="signal_strength">Signal Strength (dBm)</string>
+    <string name="battery_level">Battery Level (%)</string>
+    <string name="change_language">Change Language</string>
+    <string name="save_to_csv">Save to CSV</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">تسجيل المواقع</string>
+    <string name="latitude">خط العرض</string>
+    <string name="longitude">خط الطول</string>
+    <string name="altitude">الارتفاع</string>
+    <string name="signal_strength">قوة الإشارة (dBm)</string>
+    <string name="battery_level">مستوى البطارية (%)</string>
+    <string name="change_language">تغيير اللغة</string>
+    <string name="save_to_csv">حفظ إلى CSV</string>
+</resources>
